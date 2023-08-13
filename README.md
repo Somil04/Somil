@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somil Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img  align = "center" alt = "coding" width = "400" src = "[[https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47gkodo1kluf3vmcaev8xvq7h0u9bm2hlo8l6ghf3e&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)](https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif)"></img>
+<img  align = "center" alt = "coding" width = "400" src = "(https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif)"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somil04&label=Profile%20views&color=0e75b6&style=flat" alt="somil04" /> </p>
 
