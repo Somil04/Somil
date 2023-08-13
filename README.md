@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img  align = "center" alt = "coding" width = "200" src = "https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47n65h6ps8qzselu5z4stya9tagm7s69lxq7tf0iey&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
 
+<img  align = "right" alt = "coding" width = "200" src = "https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47n65h6ps8qzselu5z4stya9tagm7s69lxq7tf0iey&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somil04&label=Profile%20views&color=0e75b6&style=flat" alt="somil04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somil04" alt="somil04" /></a> </p>
