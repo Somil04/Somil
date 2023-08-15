@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somil Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img  align = "center" alt = "coding" width = "200" src = "https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47n65h6ps8qzselu5z4stya9tagm7s69lxq7tf0iey&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somil04&label=Profile%20views&color=0e75b6&style=flat" alt="somil04" /> </p>
 
@@ -12,6 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/somil gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somil gupta" height="30" width="40" /></a>
+<a href="https://instagram.com/somilxgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somilxgupta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
