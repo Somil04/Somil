@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Somil Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3> 
-<img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=">
+<img src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e471u0899gsk7v6vauxn7obz7ni6j5luvsb578w9nsj&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Smiley face" width="42" height="42" style="vertical-align:middle">
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somil04&label=Profile%20views&color=0e75b6&style=flat" alt="somil04" /> </p>
 
